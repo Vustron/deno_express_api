@@ -55,4 +55,4 @@ To run the API, use the following command:
 deno run -A main.ts
 ```
 
-The API will be available at `https://test-35-3.deno.dev`.
+The API will be available at `https://deno-express-api.deno.dev`.
